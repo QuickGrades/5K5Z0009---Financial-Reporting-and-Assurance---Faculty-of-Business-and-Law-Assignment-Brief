@@ -2,10 +2,10 @@
 5K5Z0009 - Financial Reporting and Assurance - Assignment Solution
 
 # Assignment Solutions Available
-# Option 1: Solution Only – £20
+### Option 1: Solution Only – £20
 Get a clear, accurate solution for your assignment.
 
-# Option 2: Complete New Assignment – £35
+### Option 2: Complete New Assignment – £35
 A fully original assignment written from scratch
 ✔ No AI content
 ✔ 100% unique
@@ -15,7 +15,7 @@ A fully original assignment written from scratch
 WhatsApp: (https://wa.link/tjvih8)
 Email: (zrtechno123@gmail.com)
 
-Faculty of Business and Law
+# Faculty of Business and Law
 Assignment Brief 2025/26
 
 Module Title:  Financial Reporting and Assurance	
